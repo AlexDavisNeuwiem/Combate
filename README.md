@@ -1,4 +1,4 @@
-# Combate-ES1
+# Combate
 Jogo e modelagem desenvolvidos na disciplina Engenharia de Software 1 (INE5417).
 
 Equipe: Alex Davis, Luan Diniz e Lucas Truppel.
